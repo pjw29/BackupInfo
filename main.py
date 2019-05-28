@@ -1,6 +1,8 @@
-# BackupInfo
-Simple pyton script to parse Macrium reflect data etc. 
+import os
 
+print("This line will be printed.")
+
+""" 
 - Read Backup Definitions (XML) - fixed dir
     - Parse Definitions in backupDefinitions table (SQLite) - inc. raw XML
 
@@ -18,3 +20,6 @@ Simple pyton script to parse Macrium reflect data etc.
 - Build HTML page to explore XML data? (HTML)
 
 - Save both XML and HTML to pre-determined "Backup informnation file"
+
+
+ """
